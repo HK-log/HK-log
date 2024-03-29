@@ -11,13 +11,11 @@ _Majored in Bio-Medical Engineering_
 **_[ Master's degree ]_** </br>
 _Signal processing and Machine Learning based on Biomechanics_
 ###### _Quantitative analysis of 5-year follow-up study data </br> Statistical analysis using Structured & Unstructured data </br> ML Model Implementation & Feature Engineering._ ######
-  
-## LANGUAGES & PLATFORMS
-<div style = "display:flex; flex-direction:row;">  
-
 
 </br>
 
+## LANGUAGES & PLATFORMS
+<div style = "display:flex; flex-direction:row;">  
 
 _Languages_
 </br>
@@ -50,6 +48,8 @@ _Basically available_
 <img src="https://img.shields.io/badge/OneNote-7719AA?style=flat&logo=microsoftonenote&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/>
+
+</br>
 
 ## THESE DAYS
 <img src="https://github-readme-stats.vercel.app/api?username=HK-log&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=HK%20Github%20Stat" width=44%/>
