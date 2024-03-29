@@ -9,16 +9,8 @@
 _Majored in Bio-Medical Engineering_
 
 **_[ Master's degree ]_** </br>
-_Signal processing and Machine Learning based on Biomechanics_ </br>
-
-</br>
-
-**_Main Topic_** </br>
-<div style = "display:flex; flex-direction:row;">
-  
-###### Quantitative analysis of 5-year follow-up study data ######
-###### Statistical analysis using Structured & Unstructured data ######
-###### ML Model Implementation & Feature Engineering. ######
+_Signal processing and Machine Learning based on Biomechanics_
+###### _Quantitative analysis of 5-year follow-up study data </br> Statistical analysis using Structured & Unstructured data </br> ML Model Implementation & Feature Engineering._ ######
   
 ## LANGUAGES & PLATFORMS
 <div style = "display:flex; flex-direction:row;">  
