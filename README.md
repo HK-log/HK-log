@@ -5,17 +5,28 @@
   
 **_"I like to find value in Raw-data"_** </br>
 
-**_[ University: Bachelor's degree ]_** </br>
+**_[ Bachelor's degree ]_** </br>
 _Majored in Bio-Medical Engineering_
 
-**_[ Graduate School: Master's degree ]_** </br>
-_Signal processing and Machine Learning based on Biomechanics_
+**_[ Master's degree ]_** </br>
+_Signal processing and Machine Learning based on Biomechanics_ </br>
 
+</br>
 
+**_Main Topic_** </br>
+<div style = "display:flex; flex-direction:row;">
+  
+###### Quantitative analysis of 5-year follow-up study data ######
+###### Statistical analysis using Structured & Unstructured data ######
+###### ML Model Implementation & Feature Engineering. ######
   
 ## LANGUAGES & PLATFORMS
 <div style = "display:flex; flex-direction:row;">  
-    
+
+
+</br>
+
+
 _Languages_
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
