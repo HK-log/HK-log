@@ -1,6 +1,6 @@
 <div align = "center">
 
-## ABOUT ME
+## :seedling: ABOUT ME
 <div style = "display:flex; flex-direction:row;">
   
 **_"I like to find value in Raw-data"_** </br>
@@ -14,7 +14,7 @@ _Signal processing and Machine Learning based on Biomechanics_
 
 </br>
 
-## LANGUAGES & PLATFORMS
+## :books: LANGUAGES & PLATFORMS :computer:
 <div style = "display:flex; flex-direction:row;">  
 
 _Languages_
@@ -51,7 +51,7 @@ _Basically available_
 
 </br>
 
-## THESE DAYS
+##  :clock6: THESE DAYS
 <img src="https://github-readme-stats.vercel.app/api?username=HK-log&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=HK%20Github%20Stat" width=44%/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-log&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF&custom_title=HK%20Contribution%20Graph" width=52%/>
 
