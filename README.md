@@ -20,9 +20,6 @@ _Signal processing and Machine Learning based on Biomechanics_
 **_[ These Days ]_** </br>
 ###### _Implementation of CT driving sequence </br> CT image optimization & CT image quality evaluation </br> Establish a plan for your CT equipment concept_
 
-_CT image optimization and CT image quality evaluation_
-
-
 ## :books: LANGUAGES & PLATFORMS :computer:
 <div style = "display:flex; flex-direction:row;">  
 
