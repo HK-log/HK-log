@@ -12,7 +12,16 @@ _Majored in Bio-Medical Engineering_
 _Signal processing and Machine Learning based on Biomechanics_
 ###### _Quantitative analysis of 5-year follow-up study data </br> Statistical analysis using Structured & Unstructured data </br> ML Model Implementation & Feature Engineering._ ######
 
+.
+.
+.
 </br>
+
+**_[ These Days ]_** </br>
+###### _Implementation of CT driving sequence </br> CT image optimization & CT image quality evaluation </br> Establish a plan for your CT equipment concept_
+
+_CT image optimization and CT image quality evaluation_
+
 
 ## :books: LANGUAGES & PLATFORMS :computer:
 <div style = "display:flex; flex-direction:row;">  
@@ -51,7 +60,7 @@ _Basically available_
 
 </br>
 
-##  :clock6: THESE DAYS
+##  :clock6: Now on Github
 <img src="https://github-readme-stats.vercel.app/api?username=HK-log&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&custom_title=HK%20Github%20Stat" width=44%/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HK-log&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF&custom_title=HK%20Contribution%20Graph" width=52%/>
 
