@@ -19,7 +19,7 @@ _Signal processing and Machine Learning based on Biomechanics_
 
 **_[ These Days ]_** </br>
 ###### _Implementation of CT driving sequence </br> CT image optimization & CT image quality evaluation </br> Establish a plan for your CT equipment concept_
-###### _Main part: MedicalCT(Helical) & Cone-beam CT (CBCT)_
+###### _MedicalCT(Helical) & Cone-beam CT (CBCT)_
 
 ## :books: LANGUAGES & PLATFORMS :computer:
 <div style = "display:flex; flex-direction:row;">  
