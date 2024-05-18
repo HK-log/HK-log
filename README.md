@@ -3,7 +3,7 @@
 ## :seedling: ABOUT ME :seedling:
 <div style = "display:flex; flex-direction:row;">
   
-**_"I like to find value in Raw-data"_** </br>
+**_"Like to find value in Raw-data"_** </br>
 
 **_[ Bachelor's degree ]_** </br>
 _Majored in Bio-Medical Engineering_
