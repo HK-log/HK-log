@@ -5,10 +5,10 @@
   
 **_"Like to find value in Raw-data"_** </br>
 
-**_[ Bachelor's degree ]_** </br>
+**_[ Bachelor degree ]_** </br>
 _Majored in Bio-Medical Engineering_
 
-**_[ Master's degree ]_** </br>
+**_[ Master degree ]_** </br>
 _Signal processing & ML based on Biomechanics_
 ###### _Quantitative analysis of 5-year follow-up study data </br> Statistical analysis using Structured & Unstructured data </br> ML Model Implementation & Feature Engineering._ ######
 
