@@ -41,7 +41,6 @@ _Collaborative Software_
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
-
 .
 .
 .
